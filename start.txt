@@ -1,9 +1,12 @@
 
-version 1.0
+version 2.0
 Author Shekhar
 
 
 Eclipse
 STS
 VS Code
+Angular
+React
 
+Done
