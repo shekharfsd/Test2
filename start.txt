@@ -8,5 +8,6 @@ STS
 VS Code
 Angular
 React
+Splunk
 
 Done
